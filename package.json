@@ -1,0 +1,5 @@
+{
+  "name": "sidekiq_trackable_batch_demo_app",
+  "private": true,
+  "dependencies": {}
+}
