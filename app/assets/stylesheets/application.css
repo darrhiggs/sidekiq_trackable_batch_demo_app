@@ -13,3 +13,31 @@
  *= require_tree .
  *= require_self
  */
+
+table {
+  width: 100%
+}
+
+td {
+  text-align: center;
+}
+
+.alert {
+  padding: .75rem 1.25rem;
+}
+
+.alert-notice {
+  background-color: rgb(223, 240, 216);
+  border-color: rgb(208, 233, 198);
+  color: rgb(60, 118, 61);
+}
+
+.alert-alert {
+  background-color: rgb(242, 222, 222);
+  border-color: rgb(235, 204, 204);
+  color: rgb(169, 68, 66);
+}
+
+.order__status--unfulfiled {
+  color: grey;
+}
